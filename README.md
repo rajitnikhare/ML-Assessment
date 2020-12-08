@@ -30,7 +30,7 @@ This does NOT need to be fancy.  A photo of a hand-drawn diagram is just fine.
 
 #### Your submission
 
-Send back to proofpoint
+Send back to us:
 1) Your complete python code solution for the REST api - Please review the app.py in app directory
 2) Your dockerfile that packages your code as a container - Please review dockerfile
 3) Your description (or drawing) of how you would deploy this system.
