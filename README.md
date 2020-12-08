@@ -68,7 +68,7 @@ The image gets deployed to the EC2 machine
 ##### Step 6: Make the Security Group changes:
 Open the required port.
 
-##### tep 7: Test 
+##### Step 7: Test 
 Try and access the DNS:port address. If it runs the app, then the deployment was successful.
 
 ![Architecture Diagram (Rough)](images/Architecture_diagram.jpg)
