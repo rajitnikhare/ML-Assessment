@@ -70,3 +70,5 @@ Open the required port.
 
 ##### tep 7: Test 
 Try and access the DNS:port address. If it runs the app, then the deployment was successful.
+
+![Architecture Diagram (Rough)](images/Architecture_diagram.jpg)
