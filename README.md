@@ -54,12 +54,12 @@ docker push <name_of_the_repository>:latest
 I will use the AWS console for this and select attributes like Name, size, VPC, subnets, Security Group, IAM role.
 
 ##### Step 4: Create a task definition:
-Select EC2 instance
-Task definition name
-Add container
-select the ARN value
-Select the right port mappings
-Choosing the placement strategy to spread will make it highly available
+Select EC2 instance,
+Task definition name,
+Add container,
+select the ARN value,
+Select the right port mappings,
+Choosing the placement strategy to spread will make it highly available,
 We can also put an autoscaling group for the EC2 instance to scale them up when there is more load
 
 ##### Step 5: Run the task:
